@@ -1,4 +1,5 @@
 # Изменение nuum для удобства
+![image](https://github.com/user-attachments/assets/a0b081e6-9066-464a-a9e5-fa314cf4fab1)
 
 
 Для удобного изменения необходимо расширение Stylish.
