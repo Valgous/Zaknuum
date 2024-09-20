@@ -11,7 +11,6 @@
 Открыть редактор (3 вкладка), вписать любое название и вставить код снизу:
 
 
-/*By Valgous*/
 .block__messages__item .sticker {
 	visibility: none;
   display: none;
